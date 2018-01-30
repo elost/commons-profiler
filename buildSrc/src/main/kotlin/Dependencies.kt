@@ -17,6 +17,7 @@ object Libs {
     val junit = "junit:junit:4.12"
     val guava = "com.google.guava:guava:21.0"
     val mockito = "org.mockito:mockito-all:1.10.19"
+    val kotlin_logging = "io.github.microutils:kotlin-logging:1.4.9"
 }
 
 
